@@ -237,4 +237,4 @@ This repository serves as the official landing page for MacDrive. The software i
 **Get the most recent version of MacDrive today!**
 
 ---
-**Last updated:** 2026-10-18 22:08:05 UTC
+**Last updated:** 2026-10-19 00:39:27 UTC
